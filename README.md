@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 -->
 ## Languages and Tools:
 
-
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"
 <img align="left" alt="terraform" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/terraform/terraform.svg" />
 <img align="left" alt="github" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/GitHub5/github1.svg" />
 <img align="left" alt="chefio" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/CHEF/chefio.svg" />
