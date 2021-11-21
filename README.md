@@ -34,6 +34,15 @@ Here are some ideas to get you started:
 <img align="left" alt="NaseerMomin | vimeo" width="22px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/vimeo/vimeo.svg" />
 <img align="left" alt="NaseerMomin | lynda" width="22px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/lynda/lynda.svg" />
 
-
-
 <!--
+-->
+## Languages and Tools:
+
+
+<img align="left" alt="terraform" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/terraform/terraform.svg" />
+<img align="left" alt="github" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/GitHub5/github1.svg" />
+<img align="left" alt="chefio" width="60px" src="https://github.com/NaseerMomin/NaseerMomin/blob/main/CHEF/chefio.svg" />
+
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-
